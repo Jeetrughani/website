@@ -19,7 +19,7 @@ Then enter the just downloaded folder `website` and install all dependencies wit
 
 `npm install`
 
-In oder to set up the local web-server for the website run
+In oder to set up the local web-server for the website run on
 
 `npm start`
 
